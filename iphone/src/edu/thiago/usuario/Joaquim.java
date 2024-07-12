@@ -1,10 +1,10 @@
 package edu.thiago.usuario;
 
-import edu.thiago.funcionalidades.iphone.Iphone;
+import edu.thiago.funcionalidades.iphone.IPhone;
 
 public class Joaquim {
     public static void main(String[] args) {
-        Iphone iphone = new Iphone();
+        IPhone iphone = new IPhone();
         
         iphone.ligar("555");
         iphone.atender();

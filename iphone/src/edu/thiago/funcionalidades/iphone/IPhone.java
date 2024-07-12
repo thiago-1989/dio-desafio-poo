@@ -4,7 +4,7 @@ import edu.thiago.funcionalidades.navegador.Navegador;
 import edu.thiago.funcionalidades.telefone.Telefone;
 import edu.thiago.funcionalidades.reprodutor.Reprodutor;
 
-public class Iphone implements Telefone, Reprodutor, Navegador {
+public class IPhone implements Telefone, Reprodutor, Navegador {
 
     public void ligar(String numero) {
         System.out.println("Ligando de Iphone");
