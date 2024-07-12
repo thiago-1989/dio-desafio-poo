@@ -9,7 +9,7 @@ public class Joaquim {
         iphone.ligar("555");
         iphone.atender();
         iphone.iniciarCorreioVoz();
-        iphone.selecionarMusica("Bachianas Nº7");
+        iphone.selecionarMusica("choppin");
         iphone.reproduzir();
         iphone.pausar();
         iphone.exibirPagina("https://web.dio.me/home");
