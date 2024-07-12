@@ -67,4 +67,7 @@ classDiagram
 https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
 ````
 ==========================================================================================
-# Resultado:
+# Resultado 
+**Após concluir o desafio estou deixando aqui um imagem do meu arquivo UML para facilitar a visualização o restante do código está no pacote src**
+
+![uml](uml-desafio-poo.png)
